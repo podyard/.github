@@ -45,8 +45,11 @@ curl -fsSL https://podyard.dev/install | sh
 podyard login
 podyard new
 podyard exec my-pod -- echo "hello from a pod"
-SDKs for TypeScript and
-Python expose the same shape:
+```
+
+SDKs for TypeScript and Python expose the same shape:
+
+```typescript
 import { Podyard } from "@podyard/sdk";
 
 const yard = new Podyard({ apiKey: process.env.PODYARD_API_KEY });
