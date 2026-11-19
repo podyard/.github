@@ -1,8 +1,8 @@
-## Podyard
-
 ![Podyard](banner.jpg)
 
-A pod for every tool call. Millisecond sandboxes for AI agents. Unlimited pods, every run replayable.
+<p align="center">
+  A pod for every tool call. Millisecond sandboxes for AI agents. Unlimited pods, every run replayable.
+</p>
 
 <p align="center">
   <a href="https://github.com/podyard/podyard">Repository</a> ·
